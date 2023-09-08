@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tattoo-react/static/css/main.c1a2963f.css",
-    "main.js": "/tattoo-react/static/js/main.29d7e221.js",
+    "main.css": "/tattoo-react/static/css/main.672fbabe.css",
+    "main.js": "/tattoo-react/static/js/main.f8e854c9.js",
     "static/media/bg1.png": "/tattoo-react/static/media/bg1.e8ae0c03d65aceeb30a7.png",
     "static/media/about.png": "/tattoo-react/static/media/about.318475c2c86022ac26f9.png",
     "static/media/paints.png": "/tattoo-react/static/media/paints.6ddac8763386f6e95f0e.png",
@@ -53,11 +53,11 @@
     "static/media/search.svg": "/tattoo-react/static/media/search.85f69d40f30c63f612de.svg",
     "static/media/checkedbig.svg": "/tattoo-react/static/media/checkedbig.2ff5be352aa95cbcc964.svg",
     "static/media/checked.svg": "/tattoo-react/static/media/checked.afcbe6a45412c33bbd69.svg",
-    "main.c1a2963f.css.map": "/tattoo-react/static/css/main.c1a2963f.css.map",
-    "main.29d7e221.js.map": "/tattoo-react/static/js/main.29d7e221.js.map"
+    "main.672fbabe.css.map": "/tattoo-react/static/css/main.672fbabe.css.map",
+    "main.f8e854c9.js.map": "/tattoo-react/static/js/main.f8e854c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1a2963f.css",
-    "static/js/main.29d7e221.js"
+    "static/css/main.672fbabe.css",
+    "static/js/main.f8e854c9.js"
   ]
 }
